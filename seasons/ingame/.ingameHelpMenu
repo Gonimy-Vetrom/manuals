@@ -1,0 +1,34 @@
+Note: anything marked (?) at the end can be optional, moved around, or deleted later on.
+
+Seasons Mod (title for ingame help menu)
+
+Intro (?)
+    Seasons Mod is a realism mod that adjusts nearly all aspects of Farming Simulator to more realistic parameters. Everything from seasonal effects to crop growth patterns to animal production has been changed to a more realistic level.
+		The game year has been broken up into 4 seasons: spring, summer, autumn, and winter. Each season is broken into 3 parts equivalent to 1 month each: early, mid, and late.
+		Your activities are now tied to the time of year they take place in real life.
+
+Seasonal Effects (1) (Note: maybe add some pictures of the seasons)
+    Weather is random from day to day, but follows a pattern from year to year. 
+		Spring will be rainy and foggy, with some chances of sunny weather. Summer will be warmer and drier. Hail storms can occur without any warning. Autumn will be rainy with some sunny weather. Winter will be rainy, but often cold enough to allow snow to fall, maybe even stick.
+		Snow will fill tippers and shovels, unless the tipper or shovel is covered in a shed with a snow mask or a tarp. Snow will also reduce traction, thus makingg vehicles slower.
+		
+Seasonal Effects (2)(?)
+		Daylight effects are also affected with the seasons. Winters have shorter days (8 hours) while summers will have longer days (17 hours).
+		Bunker silos and silage bales now require time to ferment. It takes one third of a seasons (1 game month) to fully ferment either a bunker silo or a silage bale.
+		Seasons will also affect trees and foliage. The trees and bushes will change state according to seasonal temperature changes. Leaves will turn color and drop in the autumn, trees will be bare in winter, and trees will be lighter green in the spring.
+		
+Weather
+Crops
+
+		  Soil temperature is properly modelled using thermodynamic equations and historical data, which introduces interesting aspects like soil is frozen in the winter and sometimes in the first few days of spring, so you can't work on it (temp, TODO)
+			
+			
+Maintenance (TODO)
+Economy (TODO)
+Hired Help (TODO)
+Animals (TODO)
+Miscellaneous (TODO)
+    Warning: Do not fast forawrd faster than 6000x on singleplayer. Do not fast forward faster than 1200x on multiplayer. Doing so may cause undesirable effects to your savegame, computer, etc.
+    
+    
+    Changeable season lengths. (For best results, restart the game / server after changing season length)
