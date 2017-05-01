@@ -43,7 +43,7 @@ Crops - Hay, Straw, and Grass
 		Grass is reset to its harvested stage, to simulate the winter killing off the grass for the winter.
 		Grass bales will now need to be fed out or wrapped for silage within 2 days of baling. After 2 days, the grass will rot and disappear.
 		Swaths of hay, grass, and straw will begin to reduce in size after (TODO awaiting response), and will eventually disappear after several days.
-		Straw and hay must be baled before 
+		Straw and hay must be baled before it can be sold, loose straw and hay cannot be sold as their price is 0. Grass, baled or loose, cannot be sold regardless, as their price is also 0. Wrap the grass bales before selling them.
 
 Crops - Trees
 		Trees will now take more time to reach their fully grown state. It now takes the plantable trees 5 game years to be fully grown.
@@ -60,23 +60,12 @@ Maintenance
 		You can repair your vehicles either at the vehicle shop or the placeable repair shop. Note that it will be more expensive to repair at the vehicle shop.
 		The age of your vehicle is the days since your last repair.
 		Only drivable vehicles will require periodic maintenance. Tools and implements will be automatically repaired as needed.
-		
-    New maintenance algorithm with repair, maintenance and taxes
-    Keep your machine clean to lower daily maintenance costs
-    Machine not used? Pay less
-		
-		
+	
 Economy
-		
-
-    Loan cap is set to 30% of your total owned land + placeable buildings value with a minimum of 300,000
-    The interest has been adjusted to the new year length.
-    Prices of almost everything changes during a year, realistically.
-    You can't sell grass/hay/straw in an unbaled form. (Price is 0)
-    You can't sell wet grass bales (price is 0)
-    Income from missions is reduced to ~5x what a worker would earn if 100% of the time for a mission is used.
-    Field prices can be adjusted via the economy xml file using fieldPriceFactor. 1 = default prices. < 1 for cheaper fields and > 1 for more expensive fields. For example, setting this value to 0.5 will result in a price half of wht it would be in the standard game
-
+		The loan cap has been changed from 200,000 to 30% of your owned land and placeable building values. The minimum loan cap is 300,000 and the maximum loan cap is 1,000,000.
+		Incomes from missions have been reduce. You will now earn roughly 5 times more than a hired worker working on the same field.
+		Maintenance of all vehicles (in addition to the periodic maintenance) now includes maintenance and taxes relative to how much it is being used. Clean machines will also reduce maintenance costs. Machines that are not used will also have their maintenance costs reduced.
+		Crops prices will now fluctuate with the changes in the seasons in a more realistic manner.
 
 Hired Help (TODO)
 Animals (TODO)
