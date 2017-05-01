@@ -8,7 +8,7 @@ Intro (?) (Note: maybe add a picture of the Realismus Modding logo and/or the Se
 		Your activities are now tied to the time of year they take place in real life.
 
 Seasonal Effects (1) (Note: maybe add some pictures of the seasons)
-    Weather is random from day to day, but follows a pattern from year to year. 
+		Weather is random from day to day, but follows a pattern from year to year. 
 		Spring will be rainy and foggy, with some chances of sunny weather. Summer will be warmer and drier. Hail storms can occur without any warning. Autumn will be rainy with some sunny weather. Winter will be rainy, but often cold enough to allow snow to fall, maybe even stick.
 		Snow will fill tippers and shovels, unless the tipper or shovel is covered in a shed with a snow mask or a tarp. Snow will also reduce traction, thus makingg vehicles slower.
 		
@@ -81,8 +81,12 @@ Animals - Production
 		Wool is only produced in the spring.
 		Milk is produced yearround, but is increased in the winter and the spring. While grass cannot be fed in the winter, this would normally reduce the cows productivity to at most 80%. Hwever, Seasons Mod increases milk production in the winter and spring to make up for the lack of grass in these months.
 
+Seasons Mod Menu
+		The Seasons Mod Menu is used as a reference guide for planting and to change settings related to the Seasons Mod. This menu is activated by Left Alt + S.
+		The first page is your guide to planting and harvesting windows. The germination temperatures of all crops are shown on the left of the graph. If the temperature next to a crop is white, it means it is warm enough to plant that particular crop. If the temperature is blue, it is too cold.
+		The second page is the settings menu. Here the season lenght (3/6/9/12 day seasons), season notifications (on/off), snow mode (on/off/1-layer, tracks on/off), crop moisture (on/off), and temperature settings (C/F) can all be changed.
+
 Miscellaneous
     WARNING: Do not fast forawrd faster than 6000x on singleplayer. Do not fast forward faster than 1200x on multiplayer. Doing so may cause undesirable effects to your savegame, computer, etc.
-    
-    
-    Changeable season lengths. (For best results, restart the game / server after changing season length)
+    If you decide to change the season lenght in the middle of an existing save game, it is recomended that 1) change the season length during the winter to reduce undesired effects on existing crops and 2) restart the game/server after changing the season lenght.
+		While it is your game to play as you want, it may suggested as a challenge to only play with a 9-day season and at 5x time acceleration. This way you spend the spring only cultivating and planting crops, tending to crops and cutting hay in the summer, harvesting and plowing in the fall, and tending to the animals, machines, forests, and selling crops during the winter.
