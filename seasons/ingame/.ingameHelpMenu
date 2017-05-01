@@ -42,7 +42,7 @@ Crops - Arable Crops
 Crops - Hay, Straw, and Grass
 		Grass is reset to its harvested stage, to simulate the winter killing off the grass for the winter.
 		Grass bales will now need to be fed out or wrapped for silage within 2 days of baling. After 2 days, the grass will rot and disappear.
-		Swaths of hay, grass, and straw will begin to reduce in size after (TODO awaiting response), and will eventually disappear after several days.
+		Swaths of hay, grass, and straw will begin to reduce in size after, and will eventually disappear after several days. Grass swaths are reduced at midnight every day, hay and straw swath are reduced after every growth stage.
 		Straw and hay must be baled before it can be sold, loose straw and hay cannot be sold as their price is 0. Grass, baled or loose, cannot be sold regardless, as their price is also 0. Wrap the grass bales before selling them.
 
 Crops - Trees
@@ -67,9 +67,21 @@ Economy
 		Maintenance of all vehicles (in addition to the periodic maintenance) now includes maintenance and taxes relative to how much it is being used. Clean machines will also reduce maintenance costs. Machines that are not used will also have their maintenance costs reduced.
 		Crops prices will now fluctuate with the changes in the seasons in a more realistic manner.
 
-Hired Help (TODO)
-Animals (TODO)
-Miscellaneous (TODO)
+Hired Help
+		Hired workers will now require overtime pay. If a hired worker is used before 6AM and after 6PM, his/her pay will be 50% higher.
+
+Animals - Intro
+		Animal production has been adjusted with the Seasons Mod to more realistic parameters. All animals will consume more water in the summer than in the winter. Cows and pigs will require more straw in the winter. The max feeding capacities have been reduced from 6 days to 3 days.
+		Animals will only give offspring at a certian time of the year. Pigs and sheep will produce offspring in the spring, while cows will produce offspring in the summer.
+		Animals will begin to die if they do not have food or water. This is disabled on Easy difficulty.
+		Grass cannot be fed in the winter, use hay instead.
+		
+Animals - Production
+		Milk and wool production is now dependent upon the season.
+		Wool is only produced in the spring.
+		Milk is produced yearround, but is increased in the winter and the spring. While grass cannot be fed in the winter, this would normally reduce the cows productivity to at most 80%. Hwever, Seasons Mod increases milk production in the winter and spring to make up for the lack of grass in these months.
+
+Miscellaneous
     WARNING: Do not fast forawrd faster than 6000x on singleplayer. Do not fast forward faster than 1200x on multiplayer. Doing so may cause undesirable effects to your savegame, computer, etc.
     
     
