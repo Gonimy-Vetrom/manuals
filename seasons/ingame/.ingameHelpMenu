@@ -2,8 +2,8 @@ Note: anything marked (?) at the end can be optional, moved around, or deleted l
 
 Seasons Mod (title for ingame help menu)
 
-Intro (?)
-    Seasons Mod is a realism mod that adjusts nearly all aspects of Farming Simulator to more realistic parameters. Everything from seasonal effects to crop growth patterns to animal production has been changed to a more realistic level.
+Intro (?) (Note: maybe add a picture of the Realismus Modding logo and/or the Seasons Mod logo)
+    Seasons Mod is a realism mod that adjusts nearly all aspects of Farming Simulator to more realistic parameters. Everything from seasonal effects to crop growth patterns to animal production has been changed to a more realistic level, and yes even snow has been added.
 		The game year has been broken up into 4 seasons: spring, summer, autumn, and winter. Each season is broken into 3 parts equivalent to 1 month each: early, mid, and late.
 		Your activities are now tied to the time of year they take place in real life.
 
@@ -15,20 +15,73 @@ Seasonal Effects (1) (Note: maybe add some pictures of the seasons)
 Seasonal Effects (2)(?)
 		Daylight effects are also affected with the seasons. Winters have shorter days (8 hours) while summers will have longer days (17 hours).
 		Bunker silos and silage bales now require time to ferment. It takes one third of a seasons (1 game month) to fully ferment either a bunker silo or a silage bale.
-		Seasons will also affect trees and foliage. The trees and bushes will change state according to seasonal temperature changes. Leaves will turn color and drop in the autumn, trees will be bare in winter, and trees will be lighter green in the spring.
-		
-Weather
-Crops
+		Seasons will also affect trees and foliage. The trees and bushes will change state according to seasonal temperature changes. Leaves will turn color and drop in the autumn, trees will be bare in winter, and trees will be lighter green in the spring. (note: maybe add a picture of foilage in spring, summer, fall, and winter)
 
-		  Soil temperature is properly modelled using thermodynamic equations and historical data, which introduces interesting aspects like soil is frozen in the winter and sometimes in the first few days of spring, so you can't work on it (temp, TODO)
+Weather Forecast
+		The weather forecast has been reintroduced with the Seasons Mod. The weather forecast is activated by Left Alt + F. (note: maybe add a picture of the forecast here)
+		The weather forecast will show the high/low temperatures and the weather (sunny, foggy, rainy, snowy, cloudy) for the next 7 days. Summer hailstorms will not appear on the weather forecast, as hail in real life is often an unexpected event.
+
+Soil
+		Soil temperature is now properly modelled using thermodynamic equations and historical data. This means the soil will freeze in the winter when the air temperature drops below a certain point for a certain length of time. The soil will then thaw in the spring when the air temperature rises above a certain for a certain of lenght of time.
+		While the ground is frozen, the soil will not be able to worked. Crops will not grow in frozen soil.
+		Crops will only germinate when the soil temparature is above their germination temperatures. The germinations temperatures are included on the first page of the Seasons Mod settings menu (Left Alt + S).
+
+Crops - Intro (1)
+		When starting a new game all crops will be reset to their harvested stages to simulate the fact the fields have not been worked since the autumn. When using the Seasons mod for the first time in an existing savegame, you will have the option to either reset the crops or not.
+		The default growth patterns of crops have been replaced with the Seasons Mod. Crops will now follow a realistic growth pattern following their corresponding seasonal planting and harvesting times. This also means that the winter will kill most crops, and crops planted at the wrong time will not grow.
+		
+Crops - Intro (2)
+		Crops are now only harvestable in their final growth stage, except for poplar, oilseed radish, potatoes, and sugar beets. Crops will stay in this final stage until it is killed off in the winter.
+		Silage from whole-crop or corn can still be harvested in its final green state.
+		
+Crops - Arable Crops
+		Crop growth is now much longer. It may take a half a year for a crop to reach a certain 
+		While the winter will kill most crops, winter and spring crops are possible. Wheat, barley, poplar, grass, oilseed radishes, and canola can be planted in the autumn for winter crops or planted in the spring for spring crops. Be certain that the soil is warm enough for the germination of these crops.
+		Corn, soybeans, sunflower, sugarbeets, and potatoes must be planted in the spring.
+
+Crops - Hay, Straw, and Grass
+		Grass is reset to its harvested stage, to simulate the winter killing off the grass for the winter.
+		Grass bales will now need to be fed out or wrapped for silage within 2 days of baling. After 2 days, the grass will rot and disappear.
+		Swaths of hay, grass, and straw will begin to reduce in size after (TODO awaiting response), and will eventually disappear after several days.
+		Straw and hay must be baled before 
+
+Crops - Trees
+		Trees will now take more time to reach their fully grown state. It now takes the plantable trees 5 game years to be fully grown.
+		Trees will now inhibit the growth of other trees if they have been planted too close together. To restart the growth of the tree, you will need thin out the trees.
+
+Crops - Weather Effects
+		Rain, hail, and snow will now affect the moisture levels of the crops. The moisture in the crops is above certain point because of bad weather, you will not be able to harvest your crops. Moist summer nights can occur without warning.
+		After the rain, your crops will need time to dry out, which is dependent upon the air temperature. Warmer weather means crops will dry out faster than in cooler weather.
+		Using a tedder on hay while crops are wet will produce wet grass. Be certain to only use a tedder when the crops are dry enough.
+		On a mod map that has been prepared with a snow mask by the modder, hay and straw bales that have been exposed to the rain or snow will begin to rot, unless the bales are stored in a shed with a snowmask. Bad weather will not affect wrapped bales or bales on a map without a snow mask.		
 			
-			
-Maintenance (TODO)
-Economy (TODO)
+Maintenance
+		Your tractors and harvesters will now require periodic maintenance in order to keep them operational. The maintenence period is every 30 hours or half a year, which ever comes first. Vechiles that are past due their maintenance may take longer to start.
+		You can repair your vehicles either at the vehicle shop or the placeable repair shop. Note that it will be more expensive to repair at the vehicle shop.
+		The age of your vehicle is the days since your last repair.
+		Only drivable vehicles will require periodic maintenance. Tools and implements will be automatically repaired as needed.
+		
+    New maintenance algorithm with repair, maintenance and taxes
+    Keep your machine clean to lower daily maintenance costs
+    Machine not used? Pay less
+		
+		
+Economy
+		
+
+    Loan cap is set to 30% of your total owned land + placeable buildings value with a minimum of 300,000
+    The interest has been adjusted to the new year length.
+    Prices of almost everything changes during a year, realistically.
+    You can't sell grass/hay/straw in an unbaled form. (Price is 0)
+    You can't sell wet grass bales (price is 0)
+    Income from missions is reduced to ~5x what a worker would earn if 100% of the time for a mission is used.
+    Field prices can be adjusted via the economy xml file using fieldPriceFactor. 1 = default prices. < 1 for cheaper fields and > 1 for more expensive fields. For example, setting this value to 0.5 will result in a price half of wht it would be in the standard game
+
+
 Hired Help (TODO)
 Animals (TODO)
 Miscellaneous (TODO)
-    Warning: Do not fast forawrd faster than 6000x on singleplayer. Do not fast forward faster than 1200x on multiplayer. Doing so may cause undesirable effects to your savegame, computer, etc.
+    WARNING: Do not fast forawrd faster than 6000x on singleplayer. Do not fast forward faster than 1200x on multiplayer. Doing so may cause undesirable effects to your savegame, computer, etc.
     
     
     Changeable season lengths. (For best results, restart the game / server after changing season length)
