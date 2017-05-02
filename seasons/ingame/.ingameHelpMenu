@@ -15,13 +15,13 @@ Seasonal Effects (1) (Note: maybe add some pictures of the seasons)
 Seasonal Effects (2)(?)
 		Daylight hours are also affected with the seasons. Winters have shorter days (8 hours) while summers will have longer days (17 hours).
 		Bunker silos and silage bales require time to ferment. It takes one third of a seasons (1 transition) to fully ferment either a bunker silo or a silage bale.
-		Seasons will also affect trees and foliage. The trees and bushes will change state according to seasonal temperature changes. Leaves will turn color and drop in the autumn, trees will go bare in winter and will be lighter green in the spring. 
+		Seasons will also affect trees and foliage. The trees will change state according to seasonal temperature changes. Leaves will turn color and drop in the autumn, trees will go bare in winter and will be lighter green in the spring. 
 		(note: maybe add a picture of foliage in spring, summer, fall, and winter)
 
 Weather Forecast
 		The weather forecast has been reintroduced with the Seasons Mod and can activated by Left Alt + F. (note: maybe add a picture of the forecast here)
 		The weather forecast shows the high/low temperatures and the weather (sunny, foggy, rainy, snowy, cloudy) for the next 7 days. Summer hailstorms will not appear on the weather forecast, as hail in real life is often an unexpected event. 
-		The summer on the right of each forecast block represents the day of the season. 
+		The number on the right of each forecast block represents the day of the season. 
 
 Soil
 		Soil temperature is modeled using thermodynamic equations and historical data. This means the soil will freeze in the winter when the air temperature drops below a certain point for a certain length of time. The soil will then thaw in the spring when the air temperature rises above a certain threshold for a certain of length of time.
@@ -52,41 +52,41 @@ Crops - Trees
 		Trees inhibit the growth of other trees, if they have been planted too close together. To restart the growth of the tree, you will need thin out the trees.
 
 Crops - Weather Effects
-		Rain, hail, and snow will now affect the moisture levels of the crops. The moisture in the crops is above certain point because of bad weather, you will not be able to harvest your crops. Moist summer nights can occur without warning.
-		After the rain, your crops will need time to dry out, which is dependent upon the air temperature. Warmer weather means crops will dry out faster than in cooler weather.
+		Rain, hail, and snow affect the moisture levels of the crops. If the moisture in the crops is above certain point because of bad weather, you will not be able to harvest your crops. Moist summer nights can occur without warning.
+		After the rain your crops will need time to dry out, which is dependent upon the air temperature. Warmer weather means crops will dry out faster than in cooler weather.
 		Using a tedder on hay while crops are wet will produce wet grass. Be certain to only use a tedder when the crops are dry enough.
 		On a mod map that has been prepared with a snow mask by the modder, hay and straw bales that have been exposed to the rain or snow will begin to rot, unless the bales are stored in a shed with a snow mask. Bad weather will not affect wrapped bales or bales on a map without a snow mask.		
 			
 Maintenance
-		Your tractors and harvesters will now require periodic maintenance in order to keep them operational. The maintenance period is every 30 hours or half a year, which ever comes first. Vehicles that are past due their maintenance may take longer to start.
+		Your tractors and harvesters require periodic maintenance in order to keep them operational. The maintenance period is every 30 hours or half a year, which ever comes first. Vehicles that are past due their maintenance may take longer to start.
 		You can repair your vehicles either at the vehicle shop or the placeable repair shop. Note that it will be more expensive to repair at the vehicle shop.
 		The age of your vehicle is the days since your last repair.
 		Only drivable vehicles will require periodic maintenance. Tools and implements will be automatically repaired as needed.
 	
 Economy
 		The loan cap has been changed from 200,000 to 30% of your owned land and placeable building values. The minimum loan cap is 300,000 and the maximum loan cap is 1,000,000.
-		Incomes from missions have been reduce. You will now earn roughly 5 times more than a hired worker working on the same field.
-		Maintenance of all vehicles (in addition to the periodic maintenance) now includes maintenance and taxes relative to how much it is being used. Clean machines will also reduce maintenance costs. Machines that are not used will also have their maintenance costs reduced.
-		Crops prices will now fluctuate with the changes in the seasons in a more realistic manner.
+		Incomes from missions have been reduce. You will earn roughly 5 times more than a hired worker working on the same field.
+		Maintenance of all vehicles (in addition to the periodic maintenance) includes maintenance and taxes relative to how much it is being used. Clean machines will also reduce maintenance costs. Machines that are not used will also have their maintenance costs reduced.
+		Crop prices will now fluctuate with the changes in the seasons in a more realistic manner.
 
 Hired Help
-		Hired workers will now require overtime pay. If a hired worker is used before 6AM and after 6PM, his/her pay will be 50% higher.
+		Hired workers will require overtime pay. If a hired worker is used before 6AM and after 6PM, or on the weekends, his/her pay will be 50% higher.
 
 Animals - Intro
 		Animal production has been adjusted with the Seasons Mod to more realistic parameters. All animals will consume more water in the summer than in the winter. Cows and pigs will require more straw in the winter. The max feeding capacities have been reduced from 6 days to 3 days.
 		Animals will only give offspring at a certain time of the year. Pigs and sheep will produce offspring in the spring, while cows will produce offspring in the summer.
 		Animals will begin to die if they do not have food or water. This is disabled on Easy difficulty.
-		Grass cannot be fed in the winter, use hay instead.
+		Grass cannot be fed in the winter. You should use hay instead.
 		
 Animals - Production
-		Milk and wool production is now dependent upon the season.
+		Milk and wool production is dependent upon the season.
 		Wool is only produced in the spring.
 		Milk is produced year round, but is increased in the winter and the spring. While grass cannot be fed in the winter, this would normally reduce the cows productivity to at most 80%. However, Seasons Mod increases milk production in the winter and spring to make up for the lack of grass in these months.
 
 Seasons Mod Menu
 		The Seasons Mod Menu is used as a reference guide for planting and to change settings related to the Seasons Mod. This menu is activated by Left Alt + S.
 		The first page is your guide to planting and harvesting windows. The germination temperatures of all crops are shown on the left of the graph. If the temperature next to a crop is white, it means it is warm enough to plant that particular crop. If the temperature is blue, it is too cold.
-		The second page is the settings menu. Here the season length (3/6/9/12 day seasons), season notifications (on/off), snow mode (on/off/1-layer, tracks on/off), crop moisture (on/off), and temperature settings (C/F) can all be changed.
+		The second page is the settings menu. Here the season length (3/6/9/12 day seasons), season notifications (on/off), snow mode (on/off/1-layer, tracks on/off), crop moisture (on/off) and temperature settings (C/F) can all be changed.
 
 Miscellaneous
     WARNING: Do not fast forward faster than 6000x on single player. Do not fast forward faster than 1200x on multi player. Doing so may cause undesirable effects to your save game, computer, etc.
