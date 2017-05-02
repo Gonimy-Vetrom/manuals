@@ -1,6 +1,6 @@
 Note: anything marked (?) at the end can be optional, moved around, or deleted later on.
 
-Seasons Mod (title for ingame help menu)
+Seasons Mod (title for in-game help menu)
 
 Intro (?) (Note: maybe add a picture of the Realismus Modding logo and/or the Seasons Mod logo)
     Seasons Mod is a mod that injects realism into the game by adjusting nearly all aspects of Farming Simulator to more realistic parameters. Everything from seasonal effects to crop growth patterns to animal production has been changed to a more realistic level.
@@ -15,14 +15,14 @@ Seasonal Effects (1) (Note: maybe add some pictures of the seasons)
 Seasonal Effects (2)(?)
 		Daylight effects are also affected with the seasons. Winters have shorter days (8 hours) while summers will have longer days (17 hours).
 		Bunker silos and silage bales now require time to ferment. It takes one third of a seasons (1 game month) to fully ferment either a bunker silo or a silage bale.
-		Seasons will also affect trees and foliage. The trees and bushes will change state according to seasonal temperature changes. Leaves will turn color and drop in the autumn, trees will be bare in winter, and trees will be lighter green in the spring. (note: maybe add a picture of foilage in spring, summer, fall, and winter)
+		Seasons will also affect trees and foliage. The trees and bushes will change state according to seasonal temperature changes. Leaves will turn color and drop in the autumn, trees will be bare in winter, and trees will be lighter green in the spring. (note: maybe add a picture of foliage in spring, summer, fall, and winter)
 
 Weather Forecast
 		The weather forecast has been reintroduced with the Seasons Mod. The weather forecast is activated by Left Alt + F. (note: maybe add a picture of the forecast here)
 		The weather forecast will show the high/low temperatures and the weather (sunny, foggy, rainy, snowy, cloudy) for the next 7 days. Summer hailstorms will not appear on the weather forecast, as hail in real life is often an unexpected event.
 
 Soil
-		Soil temperature is now properly modeled using thermodynamic equations and historical data. This means the soil will freeze in the winter when the air temperature drops below a certain point for a certain length of time. The soil will then thaw in the spring when the air temperature rises above a certain for a certain of lenght of time.
+		Soil temperature is now properly modeled using thermodynamic equations and historical data. This means the soil will freeze in the winter when the air temperature drops below a certain point for a certain length of time. The soil will then thaw in the spring when the air temperature rises above a certain for a certain of length of time.
 		While the ground is frozen, the soil will not be able to worked. Crops will not grow in frozen soil.
 		Crops will only germinate when the soil temperature is above their germination temperatures. The germinations temperatures are included on the first page of the Seasons Mod settings menu (Left Alt + S).
 
@@ -53,10 +53,10 @@ Crops - Weather Effects
 		Rain, hail, and snow will now affect the moisture levels of the crops. The moisture in the crops is above certain point because of bad weather, you will not be able to harvest your crops. Moist summer nights can occur without warning.
 		After the rain, your crops will need time to dry out, which is dependent upon the air temperature. Warmer weather means crops will dry out faster than in cooler weather.
 		Using a tedder on hay while crops are wet will produce wet grass. Be certain to only use a tedder when the crops are dry enough.
-		On a mod map that has been prepared with a snow mask by the modder, hay and straw bales that have been exposed to the rain or snow will begin to rot, unless the bales are stored in a shed with a snowmask. Bad weather will not affect wrapped bales or bales on a map without a snow mask.		
+		On a mod map that has been prepared with a snow mask by the modder, hay and straw bales that have been exposed to the rain or snow will begin to rot, unless the bales are stored in a shed with a snow mask. Bad weather will not affect wrapped bales or bales on a map without a snow mask.		
 			
 Maintenance
-		Your tractors and harvesters will now require periodic maintenance in order to keep them operational. The maintenance period is every 30 hours or half a year, which ever comes first. Vechiles that are past due their maintenance may take longer to start.
+		Your tractors and harvesters will now require periodic maintenance in order to keep them operational. The maintenance period is every 30 hours or half a year, which ever comes first. Vehicles that are past due their maintenance may take longer to start.
 		You can repair your vehicles either at the vehicle shop or the placeable repair shop. Note that it will be more expensive to repair at the vehicle shop.
 		The age of your vehicle is the days since your last repair.
 		Only drivable vehicles will require periodic maintenance. Tools and implements will be automatically repaired as needed.
