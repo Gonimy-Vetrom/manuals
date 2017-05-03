@@ -4,19 +4,19 @@ Seasons (title for in-game help menu)
 
 01 Seasons
 01_01	Seasons is a mod that improves realism in the Farming Simulator game by adjusting nearly all aspects  to more realistic parameters. Everything from seasonal effects to crop growth patterns to animal production has been changed to a more realistic level.
-01_02	The game year has been broken up into 4 seasons: spring, summer, autumn, and winter. Each season is broken into 3 parts: early, mid and late. These parts are referred to as transitions.
+01_02	The game year has been broken up into 4 seasons: spring, summer, autumn and winter. Each season is broken into 3 parts: early, mid and late. These parts are referred to as transitions.
 01_03	Your activities are tied to the time of year they take place in real life.
 
 02 Seasonal Effects (1) (Note: maybe add some pictures of the seasons)
 02_01	Weather is random from day to day, but follows a pattern from season to season.
-02_02	Spring will be rainy and foggy, with some chances of sunny weather. Summer will be warmer and drier. Hail storms can occur without any warning. Autumn will be rainy with some sunny weather. Winter will be rainy, but often cold enough to allow snow to fall, maybe even stay on the ground.
+02_02	Spring will be rainy and foggy with some chances of sunny weather. Summer will be warmer and drier. Hail storms can occur without any warning. Autumn will be rainy with some sunny weather. Winter will be rainy, but often cold enough to allow snow to fall, maybe even stay on the ground.
 02_03	Snow will fill tippers and shovels, unless the tipper or shovel is covered in a shed with a snow mask or a tarp. Snow will also reduce traction, thus making vehicles slower.
 
 03 Seasonal Effects (2)(?)
 03_01	Daylight hours are also affected with the seasons. Winters have shorter days (8 hours) while summers have longer days (17 hours).
 03_02	Bunker silos and silage bales require time to ferment. It takes one third of a seasons (1 transition) to fully ferment either a bunker silo or a silage bale.
-03_03	Seasons will also affect trees and foliage. The trees will change state according to seasonal temperature changes. Leaves will turn color and drop in the autumn, trees will go bare in winter and will be lighter green in the spring.
-03_04	(note: maybe add a picture of foliage in spring, summer, fall, and winter)
+03_03	Seasons will also affect trees and foliage. The trees will change state according to seasonal temperature changes. Leaves will turn color and drop in the autumn. Trees will go bare in winter and will be lighter green in the spring.
+03_04	(note: maybe add a picture of foliage in spring, summer, fall and winter)
 
 04 Weather Forecast
 04_01	The weather forecast has been reintroduced with Seasons and can activated by Left Alt + F. (note: maybe add a picture of the forecast here)
@@ -29,53 +29,53 @@ Seasons (title for in-game help menu)
 	Crops will only germinate when the soil temperature is above their germination temperatures. The germinations temperatures are included on the first page of the Seasons Mod settings menu (Left Alt + S).
 
 06 Crops - Intro (1)
-	When starting a new game all crops will be reset to their harvested stages to simulate the fact the fields have not been worked since the autumn. When using the Seasons mod for the first time in an existing save game, you will have the option to either reset the crops or not.
-	The default growth patterns of crops have been replaced with the Seasons Mod. Crops will now follow a realistic growth pattern following their corresponding seasonal planting and harvesting times. This also means that the winter will kill most crops, and crops planted at the wrong time will not grow.
+	When starting a new game all crops will be reset to their harvested stages to simulate the fact the fields have not been worked since the autumn. When using the Seasons mod for the first time in an existing save game you will have the option to either reset the crops or not.
+	The default growth patterns of crops have been replaced with the Seasons Mod. Crops will now follow a realistic growth pattern following their corresponding seasonal planting and harvesting times. This also means that the winter will kill most crops and crops planted at the wrong time will not grow.
 
 07 Crops - Intro (2)
-	Crops are only harvestable in their final growth stage, except for poplar, oilseed radish, potatoes, and sugar beets and will stay in this final stage until they are killed off in the winter.
+	Crops are only harvestable in their final growth stage, except for poplar, oilseed radish, potatoes and sugar beets and will stay in this final stage until they are killed off in the winter.
 	Silage from whole-crop or corn can still be harvested in its final green state.
 
 Crops - Arable Crops
 	Crop growth is now much longer. It may take a half a year for a crop to reach the harvestable stage.
-	Winter will kill most crops, but winter and spring crops are possible. Wheat, barley, poplar, grass, oilseed radishes, and canola can be planted in the autumn for winter crops or planted in the spring for spring crops. Be certain that the soil is warm enough for the germination of these crops.
-	Corn, soybeans, sunflower, sugar beets, and potatoes must be planted in the spring. Be sure to check the growth overview in the Seasons menu because some crops cannot be planted in the first transition of spring (early spring) and will die, even if the soil temperature is above germination temperature.
+	Winter will kill most crops, but winter and spring crops are possible. Wheat, barley, poplar, grass, oilseed radishes and canola can be planted in the autumn for winter crops or planted in the spring for spring crops. Be certain that the soil is warm enough for the germination of these crops.
+	Corn, soybeans, sunflower, sugar beets and potatoes must be planted in the spring. Be sure to check the growth overview in the Seasons menu because some crops cannot be planted in the first transition of spring (early spring) and will die, even if the soil temperature is above germination temperature.
 
-Crops - Hay, Straw, and Grass
-	In winter grass is reset to its harvested stage, to simulate the winter killing off the grass when it becomes cold.
-	Grass bales need to be used or wrapped for silage within 2 days of baling. After 2 days, the grass will rot and the bale will disappear.
-	Swaths of hay, grass, and straw will begin to reduce in size, and will eventually disappear after several days. Grass swaths are reduced at midnight every day, hay and straw swath are reduced after every growth stage as well as after being exposed to rain.
-	Straw and hay must be baled before it can be sold - loose straw and hay cannot be sold as their price is 0. Grass, baled or loose, cannot be sold regardless, as their price is also 0. Wrap the grass bales before selling them.
+Crops - Hay, Straw and Grass
+	In winter grass is reset to its harvested stage to simulate the winter killing off the grass when it becomes cold.
+	Grass bales need to be used or wrapped for silage within 2 days of baling. After 2 days the grass will rot and the bale will disappear.
+	Swaths of hay, grass and straw will begin to reduce in size, and will eventually disappear after several days. Grass swaths are reduced at midnight every day. Hay and straw swath are reduced after every growth stage as well as after being exposed to rain.
+	Straw and hay must be baled before it can be sold - loose straw and hay cannot be sold as their price is 0. Grass, baled or loose, cannot be sold, as their price is also 0. Wrap the grass bales before selling them.
 
 Crops - Trees
 	Trees take more time to reach their fully grown state. It will take plantable trees 5 game years to be fully grown and after 2 years they can be cut.
 	Trees inhibit the growth of other trees if they have been planted too close together. To restart the growth of the tree you will need to thin out the trees.
 
 Crops - Weather Effects
-	Rain, hail, and snow affect the moisture levels of the crops. If the moisture in the crops is above certain point because of bad weather, you will not be able to harvest your crops. Moist summer nights can occur without warning.
+	Rain, hail and snow affect the moisture levels of the crops. If the moisture in the crops is above certain point because of bad weather, you will not be able to harvest your crops. Moist summer nights can occur without warning.
 	After the rain your crops will need time to dry out, which is dependent upon the air temperature and the time of year. Warmer weather means crops will dry out faster than in cooler weather.
 	Using a tedder on hay while crops are wet will produce wet grass. Be certain to only use a tedder when the crops are dry enough.
 	On a mod map that has been prepared with a snow mask by the modder hay and straw bales that have been exposed to the rain or snow will begin to rot, unless the bales are stored in a shed with a snow mask. Bad weather will not affect wrapped bales or bales on a map without a snow mask.
 
 Maintenance
-	Your tractors and harvesters require periodic maintenance in order to keep them operational. The maintenance period is every 30 hours or half a year, which ever comes first. Vehicles that are past due their maintenance may take longer to start.
+	Your tractors and harvesters require periodic maintenance in order to keep them operational. The maintenance period is every 30 hours or half a year, whichever comes first. Vehicles that are past due their maintenance may take longer to start.
 	You can repair your vehicles either at the vehicle shop or the placeable repair shop. Note that it will be more expensive to repair at the vehicle shop.
 	The age of your vehicle is the days since your last repair.
 	Only drivable vehicles will require periodic maintenance. Tools and implements will be automatically repaired as needed.
 
 Economy
 	The loan cap has been changed from 200,000 to 30% of your owned land and placeable building values. The minimum loan cap is 300,000 and the maximum loan cap is 1,000,000.
-	Incomes from missions have been reduce. You will earn roughly 5 times more than a hired worker working on the same field.
+	Income from missions have been reduced. You will earn roughly 5 times more than a hired worker working on the same field.
 	Maintenance of all vehicles (in addition to the periodic maintenance) includes maintenance and taxes relative to how much it is being used. Clean machines will also reduce maintenance costs. Machines that are not used will also have their maintenance costs reduced.
-	Crop prices will fluctuate with the changes in the seasons in a more realistic manner.
+	Crop prices fluctuate with the changes in the seasons in a more realistic manner.
 
 Hired Help
-	Hired workers will require overtime pay. If a hired worker is used before 6AM and after 6PM, or on the weekends, his/her pay will be 50% higher.
+	Hired workers require overtime pay. If a hired worker is used before 6AM and after 6PM, or on the weekends, his/her pay will be 50% higher.
 
 Animals - Intro
 	Animal production has been adjusted with Seasons to more realistic parameters. All animals will consume more water in the summer than in the winter. Cows and pigs will require more straw in the winter. The max feeding capacities have been reduced from 6 days to 3 days.
-	Animals will only give offspring at a certain time of the year. Pigs and sheep will produce offspring in the spring, while cows will produce offspring in the summer.
-	Animals will begin to die if they do not have food or water. This is disabled on Easy difficulty.
+	Animals only give offspring at a certain time of the year. Pigs and sheep will produce offspring in the spring, while cows will produce offspring in the summer.
+	Animals will die if they do not have food or water. This is disabled on Easy difficulty.
 	Grass cannot be fed in the winter. You should use hay instead.
 
 Animals - Production
@@ -89,7 +89,7 @@ Seasons Menu
 	The second page is the settings menu. Here the season length (3/6/9/12 day seasons), season notifications (on/off), snow mode (on/off/1-layer, tracks on/off), crop moisture (on/off) and temperature settings (C/F) can all be changed.
 
 HUD
-	A HUD to the left of the clock in the upper left corner displays information relevant to Seasons. This HUD shows the current air temperature on top and ground temperature on bottom. The state of the ground (wetcrops/frozen ground) is also displayed to the left of this HUD.
+	A HUD to the left of the clock in the upper left corner displays information relevant to Seasons. It shows the current air temperature on top and ground temperature on bottom. The state of the ground (wetcrops/frozen ground) is also displayed to the left of this HUD.
 	Directly below the clock is where the seasonal period and day of the current season is displayed.
 	When activated, the forecast HUD will appear below the clock in the upper left corner.
 	When the help menu is activated (F1) the maintenance timer is displayed near the bottom. This is only displayed when you are in a vehicle.
