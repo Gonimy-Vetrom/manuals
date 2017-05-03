@@ -3,12 +3,12 @@ Note: anything marked (?) at the end can be optional, moved around, or deleted l
 Seasons Mod (title for in-game help menu)
 
 Intro (?) (Note: maybe add a picture of the Realismus Modding logo and/or the Seasons Mod logo)
-    Seasons Mod is a mod that injects realism into the game by adjusting nearly all aspects of Farming Simulator to more realistic parameters. Everything from seasonal effects to crop growth patterns to animal production has been changed to a more realistic level.
+    Seasons Mod is a mod that improves realism in the Farming Simulator game by adjusting nearly all aspects  to more realistic parameters. Everything from seasonal effects to crop growth patterns to animal production has been changed to a more realistic level.
 		The game year has been broken up into 4 seasons: spring, summer, autumn, and winter. Each season is broken into 3 parts: early, mid and late. These parts are referred to as transitions.
 		Your activities are tied to the time of year they take place in real life.
 
 Seasonal Effects (1) (Note: maybe add some pictures of the seasons)
-		Weather is random from day to day, but follows a pattern from year to year. 
+		Weather is random from day to day, but follows a pattern from season to season. 
 		Spring will be rainy and foggy, with some chances of sunny weather. Summer will be warmer and drier. Hail storms can occur without any warning. Autumn will be rainy with some sunny weather. Winter will be rainy, but often cold enough to allow snow to fall, maybe even stick.
 		Snow will fill tippers and shovels, unless the tipper or shovel is covered in a shed with a snow mask or a tarp. Snow will also reduce traction, thus making vehicles slower.
 		
@@ -20,7 +20,7 @@ Seasonal Effects (2)(?)
 
 Weather Forecast
 		The weather forecast has been reintroduced with the Seasons Mod and can activated by Left Alt + F. (note: maybe add a picture of the forecast here)
-		The weather forecast shows the high/low temperatures and the weather (sunny, foggy, rainy, snowy, cloudy) for the next 7 days. Summer hailstorms will not appear on the weather forecast, as hail in real life is often an unexpected event. 
+		The weather forecast shows the high/low temperatures and the weather (sunny, foggy, rainy, snowy, cloudy) for the next 7 days. Hailstorms will not appear on the weather forecast, as hail in real life is often an unexpected event. 
 		The number on the right of each forecast block represents the day of the season. 
 
 Soil
@@ -37,25 +37,25 @@ Crops - Intro (2)
 		Silage from whole-crop or corn can still be harvested in its final green state.
 		
 Crops - Arable Crops
-		Crop growth is now much longer. It may take a half a year for a crop to reach a certain 
+		Crop growth is now much longer. It may take a half a year for a crop to reach the harvestable stage. 
 		While the winter will kill most crops, winter and spring crops are possible. Wheat, barley, poplar, grass, oilseed radishes, and canola can be planted in the autumn for winter crops or planted in the spring for spring crops. Be certain that the soil is warm enough for the germination of these crops.
 		Corn, soybeans, sunflower, sugar beets, and potatoes must be planted in the spring. Be sure to check the growth overview in the Seasons menu because some crops cannot be planted in the first transition of spring (early spring) and will die, even if the soil temperature is above germination temperature.
 
 Crops - Hay, Straw, and Grass
-		Grass is reset to its harvested stage, to simulate the winter killing off the grass for the winter.
-		Grass bales need to be used or wrapped for silage within 2 days of baling. After 2 days, the grass will rot and disappear.
-		Swaths of hay, grass, and straw will begin to reduce in size after, and will eventually disappear after several days. Grass swaths are reduced at midnight every day, hay and straw swath are reduced after every growth stage.
+		In winter grass is reset to its harvested stage, to simulate the winter killing off the grass when it becomes cold.
+		Grass bales need to be used or wrapped for silage within 2 days of baling. After 2 days, the grass will rot and the bale will disappear.
+		Swaths of hay, grass, and straw will begin to reduce in size, and will eventually disappear after several days. Grass swaths are reduced at midnight every day, hay and straw swath are reduced after every growth stage as well as after being exposed to rain.
 		Straw and hay must be baled before it can be sold - loose straw and hay cannot be sold as their price is 0. Grass, baled or loose, cannot be sold regardless, as their price is also 0. Wrap the grass bales before selling them.
 
 Crops - Trees
-		Trees take more time to reach their fully grown state. It will take plantable trees 5 game years to be fully grown.
+		Trees take more time to reach their fully grown state. It will take plantable trees 5 game years to be fully grown and after 2 years it can be cut.
 		Trees inhibit the growth of other trees, if they have been planted too close together. To restart the growth of the tree, you will need thin out the trees.
 
 Crops - Weather Effects
 		Rain, hail, and snow affect the moisture levels of the crops. If the moisture in the crops is above certain point because of bad weather, you will not be able to harvest your crops. Moist summer nights can occur without warning.
-		After the rain your crops will need time to dry out, which is dependent upon the air temperature. Warmer weather means crops will dry out faster than in cooler weather.
+		After the rain your crops will need time to dry out, which is dependent upon the air temperature and the time of year. Warmer weather means crops will dry out faster than in cooler weather.
 		Using a tedder on hay while crops are wet will produce wet grass. Be certain to only use a tedder when the crops are dry enough.
-		On a mod map that has been prepared with a snow mask by the modder, hay and straw bales that have been exposed to the rain or snow will begin to rot, unless the bales are stored in a shed with a snow mask. Bad weather will not affect wrapped bales or bales on a map without a snow mask.		
+		On a mod map that has been prepared with a snow mask by the modder, hay and straw bales that have been exposed to the rain or snow will begin to rot, unless the bales are stored in a shed with a snow mask. Bad weather will not affect wrapped bales or bales on a map without a snow mask.
 			
 Maintenance
 		Your tractors and harvesters require periodic maintenance in order to keep them operational. The maintenance period is every 30 hours or half a year, which ever comes first. Vehicles that are past due their maintenance may take longer to start.
