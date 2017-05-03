@@ -2,7 +2,7 @@ Note: anything marked (?) at the end can be optional, moved around, or deleted l
 
 Seasons (title for in-game help menu)
 
-Intro (?) (Note: maybe add a picture of the Realismus Modding logo and/or the Seasons Mod logo)
+Intro (?) (Note: maybe add a picture of the Realismus Modding logo and/or the Seasons logo)
     Seasons is a mod that improves realism in the Farming Simulator game by adjusting nearly all aspects  to more realistic parameters. Everything from seasonal effects to crop growth patterns to animal production has been changed to a more realistic level.
 		The game year has been broken up into 4 seasons: spring, summer, autumn, and winter. Each season is broken into 3 parts: early, mid and late. These parts are referred to as transitions.
 		Your activities are tied to the time of year they take place in real life.
@@ -89,6 +89,5 @@ Seasons Menu
 		The second page is the settings menu. Here the season length (3/6/9/12 day seasons), season notifications (on/off), snow mode (on/off/1-layer, tracks on/off), crop moisture (on/off) and temperature settings (C/F) can all be changed.
 
 Miscellaneous
-    WARNING: Do not fast forward faster than 6000x on singleplayer. Do not fast forward faster than 1200x on multiplayer. Doing so may cause undesirable effects to your save game, computer, etc.
-    If you decide to change the season length in the middle of an existing save game, it is recommended that 1) change the season length during the winter to reduce undesired effects on existing crops and 2) restart the game/server after changing the season length.
+    		If you decide to change the season length in the middle of an existing save game, it is recommended that 1) change the season length during the winter to reduce undesired effects on existing crops and 2) restart the game/server after changing the season length.
 		While it is your game to play as you want, it may suggested as a challenge to only play with a 9-day season and at 5x time acceleration. This way you spend the spring only cultivating and planting crops, tending to crops and cutting hay in the summer, harvesting and plowing in the fall, and tending to the animals, machines, forests, and selling crops during the winter.
