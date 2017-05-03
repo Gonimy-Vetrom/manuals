@@ -1,25 +1,25 @@
 Note: anything marked (?) at the end can be optional, moved around, or deleted later on.
 
-Seasons Mod (title for in-game help menu)
+Seasons (title for in-game help menu)
 
 Intro (?) (Note: maybe add a picture of the Realismus Modding logo and/or the Seasons Mod logo)
-    Seasons Mod is a mod that improves realism in the Farming Simulator game by adjusting nearly all aspects  to more realistic parameters. Everything from seasonal effects to crop growth patterns to animal production has been changed to a more realistic level.
+    Seasons is a mod that improves realism in the Farming Simulator game by adjusting nearly all aspects  to more realistic parameters. Everything from seasonal effects to crop growth patterns to animal production has been changed to a more realistic level.
 		The game year has been broken up into 4 seasons: spring, summer, autumn, and winter. Each season is broken into 3 parts: early, mid and late. These parts are referred to as transitions.
 		Your activities are tied to the time of year they take place in real life.
 
 Seasonal Effects (1) (Note: maybe add some pictures of the seasons)
 		Weather is random from day to day, but follows a pattern from season to season. 
-		Spring will be rainy and foggy, with some chances of sunny weather. Summer will be warmer and drier. Hail storms can occur without any warning. Autumn will be rainy with some sunny weather. Winter will be rainy, but often cold enough to allow snow to fall, maybe even stick.
+		Spring will be rainy and foggy, with some chances of sunny weather. Summer will be warmer and drier. Hail storms can occur without any warning. Autumn will be rainy with some sunny weather. Winter will be rainy, but often cold enough to allow snow to fall, maybe even stay on the ground.
 		Snow will fill tippers and shovels, unless the tipper or shovel is covered in a shed with a snow mask or a tarp. Snow will also reduce traction, thus making vehicles slower.
 		
 Seasonal Effects (2)(?)
-		Daylight hours are also affected with the seasons. Winters have shorter days (8 hours) while summers will have longer days (17 hours).
+		Daylight hours are also affected with the seasons. Winters have shorter days (8 hours) while summers have longer days (17 hours).
 		Bunker silos and silage bales require time to ferment. It takes one third of a seasons (1 transition) to fully ferment either a bunker silo or a silage bale.
 		Seasons will also affect trees and foliage. The trees will change state according to seasonal temperature changes. Leaves will turn color and drop in the autumn, trees will go bare in winter and will be lighter green in the spring. 
 		(note: maybe add a picture of foliage in spring, summer, fall, and winter)
 
 Weather Forecast
-		The weather forecast has been reintroduced with the Seasons Mod and can activated by Left Alt + F. (note: maybe add a picture of the forecast here)
+		The weather forecast has been reintroduced with Seasons and can activated by Left Alt + F. (note: maybe add a picture of the forecast here)
 		The weather forecast shows the high/low temperatures and the weather (sunny, foggy, rainy, snowy, cloudy) for the next 7 days. Hailstorms will not appear on the weather forecast, as hail in real life is often an unexpected event. 
 		The number on the right of each forecast block represents the day of the season. 
 
@@ -49,7 +49,7 @@ Crops - Hay, Straw, and Grass
 
 Crops - Trees
 		Trees take more time to reach their fully grown state. It will take plantable trees 5 game years to be fully grown and after 2 years it can be cut.
-		Trees inhibit the growth of other trees, if they have been planted too close together. To restart the growth of the tree, you will need thin out the trees.
+		Trees inhibit the growth of other trees if they have been planted too close together. To restart the growth of the tree you will need to thin out the trees.
 
 Crops - Weather Effects
 		Rain, hail, and snow affect the moisture levels of the crops. If the moisture in the crops is above certain point because of bad weather, you will not be able to harvest your crops. Moist summer nights can occur without warning.
@@ -67,13 +67,13 @@ Economy
 		The loan cap has been changed from 200,000 to 30% of your owned land and placeable building values. The minimum loan cap is 300,000 and the maximum loan cap is 1,000,000.
 		Incomes from missions have been reduce. You will earn roughly 5 times more than a hired worker working on the same field.
 		Maintenance of all vehicles (in addition to the periodic maintenance) includes maintenance and taxes relative to how much it is being used. Clean machines will also reduce maintenance costs. Machines that are not used will also have their maintenance costs reduced.
-		Crop prices will now fluctuate with the changes in the seasons in a more realistic manner.
+		Crop prices will fluctuate with the changes in the seasons in a more realistic manner.
 
 Hired Help
 		Hired workers will require overtime pay. If a hired worker is used before 6AM and after 6PM, or on the weekends, his/her pay will be 50% higher.
 
 Animals - Intro
-		Animal production has been adjusted with the Seasons Mod to more realistic parameters. All animals will consume more water in the summer than in the winter. Cows and pigs will require more straw in the winter. The max feeding capacities have been reduced from 6 days to 3 days.
+		Animal production has been adjusted with Seasons to more realistic parameters. All animals will consume more water in the summer than in the winter. Cows and pigs will require more straw in the winter. The max feeding capacities have been reduced from 6 days to 3 days.
 		Animals will only give offspring at a certain time of the year. Pigs and sheep will produce offspring in the spring, while cows will produce offspring in the summer.
 		Animals will begin to die if they do not have food or water. This is disabled on Easy difficulty.
 		Grass cannot be fed in the winter. You should use hay instead.
@@ -81,14 +81,14 @@ Animals - Intro
 Animals - Production
 		Milk and wool production is dependent upon the season.
 		Wool is only produced in the spring.
-		Milk is produced year round, but is increased in the winter and the spring. While grass cannot be fed in the winter, this would normally reduce the cows productivity to at most 80%. However, Seasons Mod increases milk production in the winter and spring to make up for the lack of grass in these months.
+		Milk is produced year round, but is increased in the winter and the spring. While grass cannot be fed in the winter, this would normally reduce the cows productivity to at most 80%. However, Seasons increases milk production in the winter and spring to make up for the lack of grass in these months.
 
-Seasons Mod Menu
-		The Seasons Mod Menu is used as a reference guide for planting and to change settings related to the Seasons Mod. This menu is activated by Left Alt + S.
+Seasons Menu
+		The Seasons Menu is used as a reference guide for planting and to change settings related to the Seasons. This menu is activated by Left Alt + S.
 		The first page is your guide to planting and harvesting windows. The germination temperatures of all crops are shown on the left of the graph. If the temperature next to a crop is white, it means it is warm enough to plant that particular crop. If the temperature is blue, it is too cold.
 		The second page is the settings menu. Here the season length (3/6/9/12 day seasons), season notifications (on/off), snow mode (on/off/1-layer, tracks on/off), crop moisture (on/off) and temperature settings (C/F) can all be changed.
 
 Miscellaneous
-    WARNING: Do not fast forward faster than 6000x on single player. Do not fast forward faster than 1200x on multi player. Doing so may cause undesirable effects to your save game, computer, etc.
+    WARNING: Do not fast forward faster than 6000x on singleplayer. Do not fast forward faster than 1200x on multiplayer. Doing so may cause undesirable effects to your save game, computer, etc.
     If you decide to change the season length in the middle of an existing save game, it is recommended that 1) change the season length during the winter to reduce undesired effects on existing crops and 2) restart the game/server after changing the season length.
 		While it is your game to play as you want, it may suggested as a challenge to only play with a 9-day season and at 5x time acceleration. This way you spend the spring only cultivating and planting crops, tending to crops and cutting hay in the summer, harvesting and plowing in the fall, and tending to the animals, machines, forests, and selling crops during the winter.
