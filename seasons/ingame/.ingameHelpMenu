@@ -2,37 +2,37 @@ Note: anything marked (?) at the end can be optional, moved around, or deleted l
 
 Seasons (title for in-game help menu)
 
-Seasons
-	Seasons is a mod that improves realism in the Farming Simulator game by adjusting nearly all aspects  to more realistic parameters. Everything from seasonal effects to crop growth patterns to animal production has been changed to a more realistic level.
-	The game year has been broken up into 4 seasons: spring, summer, autumn, and winter. Each season is broken into 3 parts: early, mid and late. These parts are referred to as transitions.
-	Your activities are tied to the time of year they take place in real life.
+01 Seasons
+01_01	Seasons is a mod that improves realism in the Farming Simulator game by adjusting nearly all aspects  to more realistic parameters. Everything from seasonal effects to crop growth patterns to animal production has been changed to a more realistic level.
+01_02	The game year has been broken up into 4 seasons: spring, summer, autumn, and winter. Each season is broken into 3 parts: early, mid and late. These parts are referred to as transitions.
+01_03	Your activities are tied to the time of year they take place in real life.
 
-Seasonal Effects (1) (Note: maybe add some pictures of the seasons)
-	Weather is random from day to day, but follows a pattern from season to season.
-	Spring will be rainy and foggy, with some chances of sunny weather. Summer will be warmer and drier. Hail storms can occur without any warning. Autumn will be rainy with some sunny weather. Winter will be rainy, but often cold enough to allow snow to fall, maybe even stay on the ground.
-	Snow will fill tippers and shovels, unless the tipper or shovel is covered in a shed with a snow mask or a tarp. Snow will also reduce traction, thus making vehicles slower.
+02 Seasonal Effects (1) (Note: maybe add some pictures of the seasons)
+02_01	Weather is random from day to day, but follows a pattern from season to season.
+02_02	Spring will be rainy and foggy, with some chances of sunny weather. Summer will be warmer and drier. Hail storms can occur without any warning. Autumn will be rainy with some sunny weather. Winter will be rainy, but often cold enough to allow snow to fall, maybe even stay on the ground.
+02_03	Snow will fill tippers and shovels, unless the tipper or shovel is covered in a shed with a snow mask or a tarp. Snow will also reduce traction, thus making vehicles slower.
 
-Seasonal Effects (2)(?)
-	Daylight hours are also affected with the seasons. Winters have shorter days (8 hours) while summers have longer days (17 hours).
-	Bunker silos and silage bales require time to ferment. It takes one third of a seasons (1 transition) to fully ferment either a bunker silo or a silage bale.
-	Seasons will also affect trees and foliage. The trees will change state according to seasonal temperature changes. Leaves will turn color and drop in the autumn, trees will go bare in winter and will be lighter green in the spring.
-	(note: maybe add a picture of foliage in spring, summer, fall, and winter)
+03 Seasonal Effects (2)(?)
+03_01	Daylight hours are also affected with the seasons. Winters have shorter days (8 hours) while summers have longer days (17 hours).
+03_02	Bunker silos and silage bales require time to ferment. It takes one third of a seasons (1 transition) to fully ferment either a bunker silo or a silage bale.
+03_03	Seasons will also affect trees and foliage. The trees will change state according to seasonal temperature changes. Leaves will turn color and drop in the autumn, trees will go bare in winter and will be lighter green in the spring.
+03_04	(note: maybe add a picture of foliage in spring, summer, fall, and winter)
 
-Weather Forecast
-	The weather forecast has been reintroduced with Seasons and can activated by Left Alt + F. (note: maybe add a picture of the forecast here)
-	The weather forecast shows the high/low temperatures and the weather (sunny, foggy, rainy, snowy, cloudy) for the next 7 days. Hailstorms will not appear on the weather forecast, as hail in real life is often an unexpected event.
-	The number on the right of each forecast block represents the day of the season.
+04 Weather Forecast
+04_01	The weather forecast has been reintroduced with Seasons and can activated by Left Alt + F. (note: maybe add a picture of the forecast here)
+04_02	The weather forecast shows the high/low temperatures and the weather (sunny, foggy, rainy, snowy, cloudy) for the next 7 days. Hailstorms will not appear on the weather forecast, as hail in real life is often an unexpected event.
+04_03	The number on the right of each forecast block represents the day of the season.
 
-Soil
+05 Soil
 	Soil temperature is modeled using thermodynamic equations and historical data. This means the soil will freeze in the winter when the air temperature drops below a certain point for a certain length of time. The soil will then thaw in the spring when the air temperature rises above a certain threshold for a certain of length of time.
 	While the ground is frozen, the soil cannot be worked. Crops will not grow in frozen soil.
 	Crops will only germinate when the soil temperature is above their germination temperatures. The germinations temperatures are included on the first page of the Seasons Mod settings menu (Left Alt + S).
 
-Crops - Intro (1)
+06 Crops - Intro (1)
 	When starting a new game all crops will be reset to their harvested stages to simulate the fact the fields have not been worked since the autumn. When using the Seasons mod for the first time in an existing save game, you will have the option to either reset the crops or not.
 	The default growth patterns of crops have been replaced with the Seasons Mod. Crops will now follow a realistic growth pattern following their corresponding seasonal planting and harvesting times. This also means that the winter will kill most crops, and crops planted at the wrong time will not grow.
 
-Crops - Intro (2)
+07 Crops - Intro (2)
 	Crops are only harvestable in their final growth stage, except for poplar, oilseed radish, potatoes, and sugar beets and will stay in this final stage until they are killed off in the winter.
 	Silage from whole-crop or corn can still be harvested in its final green state.
 
