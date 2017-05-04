@@ -5,12 +5,12 @@ Seasons
 01_02	The game year has been broken up into 4 seasons: spring, summer, autumn and winter. Each season is broken into 3 parts: early, mid and late. These parts are referred to as transitions.
 01_03	Your activities are tied to the time of year they take place in real life.
 
-02 Seasonal Effects (1) (Note: maybe add some pictures of the seasons)
+02 Seasonal Effects (1)
 02_01	Weather is random from day to day, but follows a pattern from season to season.
 02_02	Spring will be rainy and foggy with some chances of sunny weather. Summer will be warmer and drier. Hail storms can occur without any warning. Autumn will be rainy with some sunny weather. Winter will be rainy, but often cold enough to allow snow to fall, maybe even stay on the ground.
 02_03	Snow will fill tippers and shovels, unless the tipper or shovel is covered in a shed with a snow mask or a tarp. Snow will also reduce traction, thus making vehicles slower.
 
-03 Seasonal Effects (2)(?)
+03 Seasonal Effects (2)
 03_01	Daylight hours are also affected with the seasons. Winters have shorter days (8 hours) while summers have longer days (17 hours).
 03_02	Bunker silos and silage bales require time to ferment. It takes one third of a seasons (1 transition) to fully ferment either a bunker silo or a silage bale.
 03_03	Seasons will also affect trees and foliage. The trees will change state according to seasonal temperature changes. Leaves will turn color and drop in the autumn. Trees will go bare in winter and will be lighter green in the spring.
